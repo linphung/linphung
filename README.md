@@ -1,4 +1,4 @@
-👋 Hi there! I'm a new grad from University of Connecticut in Computer Science & Engineering whose main interests lies in web/app📲 development and accessibility. I only started coding when I made the switch into CS&E (2019) so I still have A LOT to learn.
+👋 Hi there! I'm a new grad from University of Connecticut in Computer Science & Engineering whose main interests lie in web/app📲 development and accessibility. I only started coding when I made the switch into CS&E (2019) so I still have A LOT to learn.
 
 
 <!---
