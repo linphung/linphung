@@ -1,4 +1,4 @@
-👋 Hi there! I'm a new grad from University of Connecticut in Computer Science & Engineering whose main interests lie in web/app📲 development and accessibility. 
+👋 Hi there! I'm a new grad in Computer Science & Engineering whose main interests lie in web/app📲 development and accessibility. 
 
 I started my coding journey in 2019 as I made the switch into CS&E which led me to trying to learn what recursion was while battling a global pandemic; there's still _A LOT_ for me to learn and I can't wait to (hopefully) help the world in the process.
 
